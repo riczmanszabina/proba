@@ -1,3 +1,3 @@
 # proba
 # hozzáírtam valamit
-# Ezt már gépről írtam
+# Ezt már gépről írtam volna
